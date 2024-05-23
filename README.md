@@ -27,11 +27,11 @@ redux : npm i redux react-redux
 
 add store provider in index,js 
 
-    - useSelector from react redux (similar to usecontext)
-    get the state of reducer. (inside header)
+- useSelector from react redux (similar to usecontext)
+get the state of reducer. (inside header)
 
-    - useDispatch from react-redux
-    - useNavigate
+- useDispatch from react-redux
+- useNavigate
 
 ADD, DLT, REMOVE - actions
 ADD_CART, RMV_CART, REMOVE_ONE - reducer action-cases.
